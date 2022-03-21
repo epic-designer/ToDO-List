@@ -7,7 +7,7 @@ This is ToDo list website where you can code down your daily tasks...
 
 🔗Visit Site By clicking link below
 <p align="left">
-  <a href="https://epic-designer.github.io/ToDO-List/" target="_blank"><img src="https://img.shields.io/badge/Visit-red?style=for-the-badge&logo=github"></a>
+  <a href="https://epic-designer.github.io/ToDO-List/" target="blank"><img src="https://img.shields.io/badge/Visit-red?style=for-the-badge&logo=github"></a>
 </p>
 
 ##
