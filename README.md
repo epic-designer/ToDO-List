@@ -1,4 +1,8 @@
 # ToDO-List
+<p align="center">
+  <img src=".imgs/logo.png">
+</p>
+
 This is ToDo list website where you can code down your daily tasks...
 
 🔗Visit Site By click here
