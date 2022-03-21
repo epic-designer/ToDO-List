@@ -20,7 +20,7 @@ This is ToDo list website where you can code down your daily tasks...
 - Uses local storage so no need to login.
 - No data loss after browser close.
 <p align="center">
-  <img src="imgs/logo.png">
+  <img src="https://github.com/epic-designer/ToDO-List/blob/master/imgs/img.png">
 </p>
   
 
